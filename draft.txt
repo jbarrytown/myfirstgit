@@ -4,4 +4,8 @@ This is the first sentence of the draft.
 This is the second sentence.
 
 
-Let's create a conflict.
+1) Let's create a conflict.
+
+2) conflicted because this isn't the same!!!!! example
+
+editing and resolving.
