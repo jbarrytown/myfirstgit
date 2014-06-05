@@ -1,11 +1,3 @@
 
-This is the first sentence of the draft.
-
-This is the second sentence.
-
-
-1) Let's create a conflict.
-
-2) conflicted because this isn't the same!!!!! example
-
-editing and resolving.
+....and now for something completely different in a draft, on another 
+branch.
