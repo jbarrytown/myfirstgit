@@ -1,0 +1,4 @@
+5+5
+def fun():
+	val= 2+2
+	return val
